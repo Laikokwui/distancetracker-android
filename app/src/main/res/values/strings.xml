@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Distance Tracker</string>
+    <string name="title">Select your destination:</string>
+    <string name="spring">Spring Shopping Mall</string>
+    <string name="viva">Viva Shopping Mall</string>
+    <string name="distance">Distance: 0.00 KM</string>
+</resources>
